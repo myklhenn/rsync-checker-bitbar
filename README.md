@@ -26,5 +26,5 @@ The icons ([arrow-circle-up], [check-circle]) used in this script are [licensed]
 [rsync-is-running]: img/rsync-is-running.png
 [arrow-circle-up]: https://fontawesome.com/icons/arrow-circle-up?style=solid
 [check-circle]: https://fontawesome.com/icons/check-circle?style=solid
-[licensed]: https://fontawesome.com/license
+[licensed]: https://fontawesome.com/license/free
 [Font Awesome]: https://fontawesome.com

@@ -5,7 +5,7 @@
 # <bitbar.author>Michael Henning</bitbar.author>
 # <bitbar.author.github>myklhenn</bitbar.author.github>
 # <bitbar.desc>A Bitbar plugin that indicates if an instance of [rsync] is running.</bitbar.desc>
-# <bitbar.image></bitbar.image>
+# <bitbar.image>https://raw.githubusercontent.com/myklhenn/rsync-checker-bitbar/master/img/rsync-is-running.png</bitbar.image>
 # <bitbar.abouturl>https://github.com/myklhenn/rsync-checker-bitbar</bitbar.abouturl>
 
 if ps axco command | grep -e '^rsync$' > /dev/null

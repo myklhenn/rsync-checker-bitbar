@@ -2,8 +2,9 @@
 
 A [Bitbar] plugin that indicates if an instance of [rsync] is running.
 
-![rsync-is-not-running]
-![rsync-is-running]
+![rsync-not-running-and-running]
+
+NOTE: *`README` will be updated soon to address the new options available in the dropdown!*
 
 ## Huh?
 
@@ -30,7 +31,7 @@ The icons ([arrow-circle-up], [check-circle], [exclamation-triangle]) used in th
 
 [Bitbar]: https://getbitbar.com
 [rsync]: https://rsync.samba.org
-[rsync-is-not-running]: img/rsync-is-not-running.png
+[rsync-not-running-and-running]: img/rsync-not-running-and-running.png
 [rsync-is-running]: img/rsync-is-running.png
 [rsync-stuck]: img/rsync-stuck.png
 [arrow-circle-up]: https://fontawesome.com/icons/arrow-circle-up?style=solid

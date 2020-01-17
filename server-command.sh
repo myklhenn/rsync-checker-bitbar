@@ -31,7 +31,7 @@ case $1 in
     ssh $BACKUP_SERVER_HOSTNAME "tail -fn 24 $BACKUP_LOG_FILE_PATH"
     ;;
   "--start-backup")
-    ssh $BACKUP_SERVER_HOSTNAME $BACKUP_SCRIPT_PATH
+    ssh $BACKUP_SERVER_HOSTNAME "$BACKUP_SCRIPT_PATH --progress"
     ;;
   *)
     SCRIPT_NAME=$(basename $0)
